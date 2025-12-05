@@ -16,6 +16,14 @@ Use the IMDB 50K movie reviews dataset to:
   - `sentiment` – label (`positive` or `negative`)  
 
 ---
+## File Structure
+imdb-ml-intro/
+│── IMDB Dataset.csv
+│── imdb_eda.ipynb        # your notebook
+│── REPORT.md             # the markdown report
+│── README.md             # short project description
+
+---
 
 ## 🧹 Data Preprocessing
 
